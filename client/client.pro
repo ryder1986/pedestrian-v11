@@ -1,3 +1,4 @@
+include(../pedestrian.pri)
 HEADERS += \
     servicefinder.h
 

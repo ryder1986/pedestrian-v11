@@ -2,7 +2,6 @@
 #define SERVICEFINDER_H
 
 #include <QObject>
-
 class ServiceFinder : public QObject
 {
     Q_OBJECT
