@@ -1,5 +1,5 @@
-include(../pedestrian.pri)
-HEADERS += \
+QT+=core
+HEADERS += common.h\
     servicefinder.h
 
 SOURCES += main.cpp \
